@@ -1,6 +1,4 @@
 # ACNL-NHZ-NTR
-⚠️USE THE USA VERSION OF ACNL FOR THIS PLUGIN! ⚠️
-
 Cheats available :
 
 1- Mouvements :
