@@ -1,4 +1,11 @@
 # ACNL-NHZ-NTR
+Credits :
+NHZ ACNL NTR [3.2.9]
+
+Base Plugin by Brume.
+Modified by www.nhz3dsnx.tk.
+Some Codes optimized by Anto276.
+
 Cheats available :
 
 1- Mouvements :
